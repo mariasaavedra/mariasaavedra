@@ -7,7 +7,7 @@
 
 
 <h5 align="left">Let's Connect:</h5>
-[LinkedIn 💼](https://www.linkedin.com/in/msaav/)
+[LinkedIn 💼](https://www.linkedin.com/in/msaav)
 
 [Twitter 🐦](https://twitter.com/maria_saavedra)
 
