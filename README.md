@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maria Saavedra</h1>
-<p> align="center">I first began my career in the software industry at the age of sixteen. I’ve worked on Fortune 500 projects and have been a key contributor to several start-ups. I have 10+ years of experience in developing web applications, and leading projects. I also volunteer by teaching youth computer science fundamentals and programming concepts.</p>
+<p align="center">I first began my career in the software industry at the age of sixteen. I’ve worked on Fortune 500 projects and have been a key contributor to several start-ups. I have 10+ years of experience in developing web applications, and leading projects. I also volunteer by teaching youth computer science fundamentals and programming concepts.</p>
 
 
 <h5 align="left">Languages and Tools:</h5>
